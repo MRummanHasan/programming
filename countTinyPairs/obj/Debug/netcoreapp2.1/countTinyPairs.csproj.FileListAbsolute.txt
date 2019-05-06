@@ -1,0 +1,11 @@
+C:\Users\RayyanKhan\source\repos\countTinyPairs\obj\Debug\netcoreapp2.1\countTinyPairs.csprojAssemblyReference.cache
+C:\Users\RayyanKhan\source\repos\countTinyPairs\obj\Debug\netcoreapp2.1\countTinyPairs.csproj.CoreCompileInputs.cache
+C:\Users\RayyanKhan\source\repos\countTinyPairs\obj\Debug\netcoreapp2.1\countTinyPairs.AssemblyInfoInputs.cache
+C:\Users\RayyanKhan\source\repos\countTinyPairs\obj\Debug\netcoreapp2.1\countTinyPairs.AssemblyInfo.cs
+C:\Users\RayyanKhan\source\repos\countTinyPairs\bin\Debug\netcoreapp2.1\countTinyPairs.deps.json
+C:\Users\RayyanKhan\source\repos\countTinyPairs\bin\Debug\netcoreapp2.1\countTinyPairs.runtimeconfig.json
+C:\Users\RayyanKhan\source\repos\countTinyPairs\bin\Debug\netcoreapp2.1\countTinyPairs.runtimeconfig.dev.json
+C:\Users\RayyanKhan\source\repos\countTinyPairs\bin\Debug\netcoreapp2.1\countTinyPairs.dll
+C:\Users\RayyanKhan\source\repos\countTinyPairs\bin\Debug\netcoreapp2.1\countTinyPairs.pdb
+C:\Users\RayyanKhan\source\repos\countTinyPairs\obj\Debug\netcoreapp2.1\countTinyPairs.dll
+C:\Users\RayyanKhan\source\repos\countTinyPairs\obj\Debug\netcoreapp2.1\countTinyPairs.pdb
